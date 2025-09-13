@@ -32,9 +32,11 @@ It is designed as a **proof-of-concept** for early detection support, not a repl
 
 ---
 
-## 🖥️ Demo (Screenshots)
   
- 
+## 🖥️ Demo (Screenshots)
+
+![Demo Screenshot](demo_screenshot.png)
+
 
 ---
 
