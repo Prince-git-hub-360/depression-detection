@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+sounddevice
+scipy
+librosa
+transformers
+torch
+deepface
+opencv-python
+nltk
