@@ -47,6 +47,21 @@ It is designed as a **proof-of-concept** for early detection support, not a repl
 
 ---
 
+---
+
+## ⚠️ Disclaimer
+This project is **for educational and research purposes only**.  
+It is **not intended for medical diagnosis or treatment**.  
+Do not rely on it as a substitute for professional mental health advice.
+
+---
+
+## 📧 Contact
+- **Name:** Prince Kumar  
+- **Email:** kumariafprince@gmail.com  
+- **LinkedIn:** [linkedin.com/in/prince-kumar-576544374](https://www.linkedin.com/in/prince-kumar-576544374)
+
+
 ## 🔧 Installation
 1. Clone the repo:
    ```bash
